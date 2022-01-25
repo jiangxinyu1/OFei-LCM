@@ -1,0 +1,8 @@
+prefix=/home/xinyu/workspace/360/OFei-LCM/cape_ws/devel
+
+Name: cape_ros
+Description: Description of cape_ros
+Version: 0.0.0
+Cflags: -I/home/xinyu/workspace/360/OFei-LCM/cape_ws/src/cape_ros/src
+Libs: -L${prefix}/lib 
+Requires: 

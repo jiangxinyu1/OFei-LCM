@@ -17,3 +17,8 @@ tags
 **/*.bag
 
 ./cape_ws/*
+
+./*/bin/*
+
+./*/build/*
+
